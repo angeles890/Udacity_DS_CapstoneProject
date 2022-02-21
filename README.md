@@ -53,7 +53,7 @@ The overarching goal of this project is to provide data tools that enable Starbu
 A detailed review of the different insights and models developed for this project can be found [here](https://andrewangeles-17598.medium.com/starbucks-capstone-8a7f55060e47).
 
 ### Heuristics
-Before jumping into the results, we start with the baseline offer success rate of roughly 48%. Offer success is defined as a user receiving an offer, viewing an offer, and completing an offer.
+Before jumping into the results, we start with the baseline offer success rate of roughly 48% when excluding offers of type 'informational' (no offers of type 'informational' are flagged as 'success'). Offer success is defined as a user receiving an offer, viewing an offer, and completing an offer.
 
 * Individuals with higher income were more likely to complete an offer as individuals in the bottom quartile successfully completed offers 38% of the time while individuals in the top quartile completed offers roughly 65% of the time.
 * Individuals who identified as Female or who chose not to identify, successfully completed offers 60% and 65% of the time, respectively. While individuals identified as men completed offers only 48% of the time.
